@@ -1,6 +1,6 @@
 ---
 repository:
-  name: grafana
+  name: ansible-grafana
   description: Ansible role to install and configure Grafana observability platform
   topics: ansible, role, ansible-role, hacktoberfest
 
